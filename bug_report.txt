@@ -1,0 +1,20 @@
+id: b01
+
+Environment: Redmi 5 Plus (Android 7, MIUI Global 9.2)
+
+Bug Summary: The duration of the exercise doesn't take the time specified in the settings
+
+Steps to reproduce:
+         1: Open the application,
+         2: Open settings,
+         3: Open difficulty and exercises - settings,
+         4: Change the setting 'Duration of exercise' to the level 'Long' (10 min),
+         5: Complete the task
+     
+Actual Result : The workout takes 3 minutes 7 seconds
+
+Expected Result: The workout takes 10 minutes
+
+Priority: Medium
+
+Severity: Major
