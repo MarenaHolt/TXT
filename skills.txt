@@ -1,0 +1,8 @@
+skills:
+- The Theory of Software Testing,
+- Client Server Architecture,
+- HTTP request methods,
+- JSON, XML,
+- Postman API testing,
+- Charles, Fiddler,
+- Dev Tools
